@@ -1,0 +1,8 @@
+--Output from test showMentod with valid data--
+--Output from test showMentod with not existing id--
+--Output from test save method with valid data--
+--Output from test save method with not valid data--
+--Output from test deleteProduct method with valid data--
+--Output from test deleteProduct method with not existing id--
+--Output from test updateProduct method with valid data--
+--Output from test updateProduct method with not existing id--

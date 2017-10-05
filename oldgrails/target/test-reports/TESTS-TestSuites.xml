@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="toptop" id="0" name="ProductServiceTest" package="oldgrails" tests="8" time="1.175" timestamp="2017-10-05T09:03:27">
+      <properties />
+
+      <testcase classname="oldgrails.ProductServiceTest" name="test showMentod with valid data" time="0.912" />
+
+      <testcase classname="oldgrails.ProductServiceTest" name="test showMentod with not existing id" time="0.03" />
+
+      <testcase classname="oldgrails.ProductServiceTest" name="test save method with valid data" time="0.055" />
+
+      <testcase classname="oldgrails.ProductServiceTest" name="test save method with not valid data" time="0.03" />
+
+      <testcase classname="oldgrails.ProductServiceTest" name="test deleteProduct method with valid data" time="0.032" />
+
+      <testcase classname="oldgrails.ProductServiceTest" name="test deleteProduct method with not existing id" time="0.024" />
+
+      <testcase classname="oldgrails.ProductServiceTest" name="test updateProduct method with valid data" time="0.037" />
+
+      <testcase classname="oldgrails.ProductServiceTest" name="test updateProduct method with not existing id" time="0.035" />
+
+      <system-out><![CDATA[--Output from test showMentod with valid data--
+--Output from test showMentod with not existing id--
+--Output from test save method with valid data--
+--Output from test save method with not valid data--
+--Output from test deleteProduct method with valid data--
+--Output from test deleteProduct method with not existing id--
+--Output from test updateProduct method with valid data--
+--Output from test updateProduct method with not existing id--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test showMentod with valid data--
+--Output from test showMentod with not existing id--
+--Output from test save method with valid data--
+--Output from test save method with not valid data--
+--Output from test deleteProduct method with valid data--
+--Output from test deleteProduct method with not existing id--
+--Output from test updateProduct method with valid data--
+--Output from test updateProduct method with not existing id--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

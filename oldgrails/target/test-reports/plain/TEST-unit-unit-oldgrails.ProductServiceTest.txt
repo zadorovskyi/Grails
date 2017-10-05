@@ -1,0 +1,31 @@
+Testsuite: oldgrails.ProductServiceTest
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 1,175 sec
+------------- Standard Output ---------------
+--Output from test showMentod with valid data--
+--Output from test showMentod with not existing id--
+--Output from test save method with valid data--
+--Output from test save method with not valid data--
+--Output from test deleteProduct method with valid data--
+--Output from test deleteProduct method with not existing id--
+--Output from test updateProduct method with valid data--
+--Output from test updateProduct method with not existing id--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test showMentod with valid data--
+--Output from test showMentod with not existing id--
+--Output from test save method with valid data--
+--Output from test save method with not valid data--
+--Output from test deleteProduct method with valid data--
+--Output from test deleteProduct method with not existing id--
+--Output from test updateProduct method with valid data--
+--Output from test updateProduct method with not existing id--
+------------- ---------------- ---------------
+
+Testcase: test showMentod with valid data took 0,912 sec
+Testcase: test showMentod with not existing id took 0,03 sec
+Testcase: test save method with valid data took 0,055 sec
+Testcase: test save method with not valid data took 0,03 sec
+Testcase: test deleteProduct method with valid data took 0,032 sec
+Testcase: test deleteProduct method with not existing id took 0,024 sec
+Testcase: test updateProduct method with valid data took 0,037 sec
+Testcase: test updateProduct method with not existing id took 0,035 sec
